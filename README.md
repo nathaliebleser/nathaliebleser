@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Nathalie Bleser (@nathaliebleser).
+- 👀 I’m interested in coding, creative writing and learning Japanese (I have studied it for so long that I can read it now!).
+- 🌱 I’m currently learning React and web development principles such as UI/UX design.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin/in/nathalie-bleser)
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: It is hard to think of fun facts on the spot, but easy to inject them in daily conversations.
+- 📚 Most recent book recommendation: *Talking to Strangers: What We Should Know about the People We Don't Know* - Malcolm Gladwell
